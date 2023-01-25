@@ -1,5 +1,5 @@
 # About Me:
-I am a quantitative research professional interested in transforming data into knowledge and insight.
+I am a quantitative research professional transforming data into knowledge and insight.
 
 As a microbiologist working in health and safety, I specialized in identifying and mitigating the probability of costly consequences during research with hazardous materials. This role offered the exciting opportunity to engage with a diversity of research and research methodologies in various fields. One commonality between fields is the generation of a large amount of data which must be analyzed, often with statistical and computational techniques. Such methods became of great interest to me. As such, I aimed to learn to code and to apply these techniques to interesting questions.
 
