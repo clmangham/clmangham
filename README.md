@@ -1,7 +1,7 @@
 # About Me:
 I am an experienced quantitative researcher with a background in microbiology and neurobiology. I enjoy transforming data into knowledge and bringing structure to ambiguous problems.
 
-**Data Science Tools:** Python with related packages (Pandas, Scikit-Learn, Statsmodels, PyTorch, PySpark, Matplotlib, Seaborn, Altair, Natural Language Toolkit, NetworkX). Also familiar with SQL and MATLAB.
+**Data Science Tools:** Python with related packages (Pandas, Scikit-Learn, Statsmodels, PyTorch, PySpark, Matplotlib, Seaborn, Altair, Natural Language Toolkit, NetworkX). Also familiar with SQL, Tableau, and MATLAB.
 
 **Data Skills:** Experience with a range of techniques involving structured/unstructured data including visualization, data mining, statistical modeling, and machine learning methods (classification, regression, clustering, dimensionality reduction, and deep learning with CNNs, RNNs, GANs, etc). Experience with the ML lifecycle, code & data version control, natural language processing, recommender systems, and network analysis. Performs research to acquire new skills as necessary.
 
