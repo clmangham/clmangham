@@ -3,7 +3,7 @@ I am an experienced researcher with a background in biology. I enjoy transformin
 
 **Programming Languages:**
 
-Python (Object Oriented, Data Structures/Algorithms), SQL, PostgreSQL, MATLAB, R
+Python, SQL, PostgreSQL, MATLAB, R
 
 **Skills:** 
 
