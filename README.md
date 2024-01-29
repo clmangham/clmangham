@@ -1,11 +1,18 @@
 # About Me:
-I am an experienced quantitative researcher with a background in microbiology and neurobiology. I enjoy transforming data into knowledge and bringing structure to ambiguous problems.
+I am an experienced researcher with a background in biology. I enjoy transforming data into knowledge and bringing structure to ambiguous problems. Let's connect! I'm passionate about leveraging data to drive impactful decisions and would love to collaborate on innovative projects.
 
-**Data Science Tools:** Python with related packages (Pandas, Scikit-Learn, Statsmodels, PyTorch, PySpark, Matplotlib, Seaborn, Altair, Natural Language Toolkit, NetworkX). Also familiar with SQL, Tableau, and MATLAB.
+**Programming Languages**
+Python (Object Oriented, Data Structures/Algorithms), SQL, PostgreSQL, MATLAB, R
 
-**Data Skills:** Experience with a range of techniques involving structured/unstructured data including visualization, data mining, statistical modeling, and machine learning methods (classification, regression, clustering, dimensionality reduction, and deep learning with CNNs, RNNs, GANs, etc). Experience with the ML lifecycle, code & data version control, natural language processing, recommender systems, and network analysis. Performs research to acquire new skills as necessary.
+**Skills** 
+Machine Learning, Deep Learning, Statistical Methods, Qualitative and Quantitative Research Methods, Experimental Design, Experiment Analysis, Experiment Tracking, A/B Testing, Hypothesis Testing, Data Visualization, Natural Language Processing, Large Language Models, Generative AI, Databases, Cloud Infrastructure (AWS, GCP), ETL, Workflow Orchestration
 
-**Research Methods:** Trained in several research methods including causal inference, qualitative inquiry, and hypothesis (A/B) testing. Experience with literature review and technical writing/communication.
+**Developer Tools** 
+Version control (GitHub, DVC), Docker, Flask, Jupyter Notebook, Unix / Linux Command Line Tools 
+
+**Frameworks & Packages** 
+Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Pytorch, Statsmodels, Pyspark, Langchain, NLTK,
+Flask, Terraform, Mage, BigQuery, dbt, Tableau
 
 <!--
 # Tech Stack:
