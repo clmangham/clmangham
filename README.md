@@ -1,16 +1,20 @@
 # About Me:
 I am an experienced researcher with a background in biology. I enjoy transforming data into knowledge and bringing structure to ambiguous problems. Let's connect! I'm passionate about leveraging data to drive impactful decisions and would love to collaborate on innovative projects.
 
-**Programming Languages**
+**Programming Languages:**
+
 Python (Object Oriented, Data Structures/Algorithms), SQL, PostgreSQL, MATLAB, R
 
-**Skills** 
+**Skills:** 
+
 Machine Learning, Deep Learning, Statistical Methods, Qualitative and Quantitative Research Methods, Experimental Design, Experiment Analysis, Experiment Tracking, A/B Testing, Hypothesis Testing, Data Visualization, Natural Language Processing, Large Language Models, Generative AI, Databases, Cloud Infrastructure (AWS, GCP), ETL, Workflow Orchestration
 
-**Developer Tools** 
+**Developer Tools:** 
+
 Version control (GitHub, DVC), Docker, Flask, Jupyter Notebook, Unix / Linux Command Line Tools 
 
-**Frameworks & Packages** 
+**Frameworks & Packages:** 
+
 Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Pytorch, Statsmodels, Pyspark, Langchain, NLTK,
 Flask, Terraform, Mage, BigQuery, dbt, Tableau
 
