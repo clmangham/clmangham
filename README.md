@@ -1,5 +1,5 @@
 # About Me:
-I am an experienced researcher with a background in biology. I enjoy transforming data into knowledge and bringing structure to ambiguous problems. Let's connect! I'm passionate about leveraging data to drive impactful decisions and would love to collaborate on innovative projects.
+As an AI & Data Systems Architect I specialize in designing intelligent, scalable systems that transform data into actionable insights. With a background in science and technology, I thrive on solving complex, ambiguous problems by bringing structure and innovation to data-driven solutions. Let’s connect! I’m passionate about leveraging AI and data to drive impactful decisions and would love to collaborate on cutting-edge projects.
 
 **Programming Languages:**
 
